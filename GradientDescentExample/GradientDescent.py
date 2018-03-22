@@ -5,28 +5,58 @@
 # @Link    : https://github.com/GuanglinZhou
 # @Version : $Id$
 
-import os
 import numpy as np
-import pandas as pd
+import random as random
 
 
-def compute_loss_function():
-    print('aa')
+def batchGradientDescent(alpha, XMatrix, yMatrix, iterNum):
+    m, n = np.shape(XMatrix)
+    theta = np.ones((n, 1))
+    for i in range(iterNum):
+        error = yMatrix - np.dot(XMatrix, theta)
+        theta = theta + alpha * np.dot(error.transpose(), XMatrix).transpose() / m
+    return theta
+
+
+def stochasticGradientDescent(alpha, XMatrix, yMatrix, iterNum):
+    m, n = np.shape(XMatrix)
+    theta = np.ones((n, 1))
+    randomNum = random.randint(0, m - 1)
+    for i in range(iterNum):
+        error = yMatrix[randomNum] - np.dot(XMatrix[randomNum], theta)
+        theta = theta + alpha * (error * XMatrix[randomNum]).transpose()
+    return theta
+
+
+def miniBatchGradientDescent(alpha, XMatrix, yMatrix, iterNum, batch):
+    m, n = np.shape(XMatrix)
+    theta = np.ones((n, 1))
+    indexList = list(range(m))
+    slice = random.sample(indexList, batch)
+    XMatrix = XMatrix[slice]
+    yMatrix = yMatrix[slice]
+    for i in range(iterNum):
+        error = yMatrix - np.dot(XMatrix, theta)
+        theta = theta + alpha * (error.transpose() * XMatrix).transpose()
+    return theta
 
 
 def loadDataSet():
-    XMat = []
-    yMat = []
-    fr = open('data.csv')
+    Xlist = []
+    ylist = []
+    fr = open('data2.csv')
     for line in fr.readlines():
         lineArr = line.strip().split(',')
-        XMat.append(float(lineArr[0]))
-        yMat.append(float(lineArr[1]))
-    return XMat, yMat
+        Xlist.append([float(lineArr[0]), float(lineArr[1]), float(lineArr[2])])
+        ylist.append(float(lineArr[-1]))
+    Xmat = np.mat(np.array(Xlist))
+    ymat = np.mat(np.array(ylist)).transpose()
+    return Xmat, ymat
 
 
 if __name__ == '__main__':
-    learning_rate = 0.1
-    XMat, yMat = loadDataSet()
-    dataMatrix = np.mat(XMat)
-    yMatrix = np.mat(yMat)
+    alpha = 0.1
+    Xmat, ymat = loadDataSet()
+    print(batchGradientDescent(alpha, Xmat, ymat, 100))
+    print(stochasticGradientDescent(alpha, Xmat, ymat, 100))
+    print(miniBatchGradientDescent(alpha, Xmat, ymat, 100, 4))
