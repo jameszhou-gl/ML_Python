@@ -7,6 +7,7 @@
 
 import numpy as np
 import random as random
+import matplotlib.pyplot as plt
 
 
 def batchGradientDescent(alpha, XMatrix, yMatrix, iterNum):
@@ -41,22 +42,30 @@ def miniBatchGradientDescent(alpha, XMatrix, yMatrix, iterNum, batch):
     return theta
 
 
-def loadDataSet():
+def loadDataSet(filename):
     Xlist = []
     ylist = []
-    fr = open('data2.csv')
+    fr = open(filename)
     for line in fr.readlines():
         lineArr = line.strip().split(',')
-        Xlist.append([float(lineArr[0]), float(lineArr[1]), float(lineArr[2])])
-        ylist.append(float(lineArr[-1]))
-    Xmat = np.mat(np.array(Xlist))
-    ymat = np.mat(np.array(ylist)).transpose()
-    return Xmat, ymat
+        Xlist.append([round(float(lineArr[0]), 2), 1])
+        ylist.append(round(float(lineArr[-1]), 2))
+    Xarray = np.array(Xlist)
+    yarray = np.array(ylist)
+    return Xarray, yarray
 
 
-if __name__ == '__main__':
-    alpha = 0.1
-    Xmat, ymat = loadDataSet()
-    print(batchGradientDescent(alpha, Xmat, ymat, 100))
-    print(stochasticGradientDescent(alpha, Xmat, ymat, 100))
-    print(miniBatchGradientDescent(alpha, Xmat, ymat, 100, 4))
+def plot(Xmat, ymat, thetaUpdate):
+    Xarray = np.array(Xmat)
+    yarray = np.array(ymat)
+    fig = plt.figure()
+    ax1 = fig.add_subplot(111)
+    ax1.set_title('Linear Model')
+    plt.xlabel('X')
+    plt.ylabel('Y')
+    plt.scatter(Xarray[:, 0], yarray, c='b', marker='o')
+    plt.plot(Xarray[:, 0], np.dot(Xmat, thetaUpdate).tolist(), c='r')
+    plt.show()
+
+
+
