@@ -15,6 +15,9 @@ def batchGradientDescent(alpha, XMatrix, yMatrix, iterNum):
     theta = np.ones((n, 1))
     for i in range(iterNum):
         error = yMatrix - np.dot(XMatrix, theta)
+        # 损失函数的值
+        # loss = sum(pow(np.array(error), 2)) * 2 / m
+        # print(loss)
         theta = theta + alpha * np.dot(error.transpose(), XMatrix).transpose() / m
     return theta
 
@@ -66,6 +69,3 @@ def plot(Xmat, ymat, thetaUpdate):
     plt.scatter(Xarray[:, 0], yarray, c='b', marker='o')
     plt.plot(Xarray[:, 0], np.dot(Xmat, thetaUpdate).tolist(), c='r')
     plt.show()
-
-
-
