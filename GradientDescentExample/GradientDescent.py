@@ -14,11 +14,11 @@ def batchGradientDescent(alpha, XMatrix, yMatrix, iterNum):
     m, n = np.shape(XMatrix)
     theta = np.ones((n, 1))
     for i in range(iterNum):
-        error = yMatrix - np.dot(XMatrix, theta)
+        error = np.dot(XMatrix, theta) - yMatrix
         # 损失函数的值
         # loss = sum(pow(np.array(error), 2)) * 2 / m
         # print(loss)
-        theta = theta + alpha * np.dot(error.transpose(), XMatrix).transpose() / m
+        theta = theta - alpha * np.dot(error.transpose(), XMatrix).transpose() / m
     return theta
 
 
@@ -27,8 +27,8 @@ def stochasticGradientDescent(alpha, XMatrix, yMatrix, iterNum):
     theta = np.ones((n, 1))
     randomNum = random.randint(0, m - 1)
     for i in range(iterNum):
-        error = yMatrix[randomNum] - np.dot(XMatrix[randomNum], theta)
-        theta = theta + alpha * (error * XMatrix[randomNum]).transpose()
+        error = np.dot(XMatrix[randomNum], theta) - yMatrix[randomNum]
+        theta = theta - alpha * (error * XMatrix[randomNum]).transpose()
     return theta
 
 
@@ -40,8 +40,8 @@ def miniBatchGradientDescent(alpha, XMatrix, yMatrix, iterNum, batch):
     XMatrix = XMatrix[slice]
     yMatrix = yMatrix[slice]
     for i in range(iterNum):
-        error = yMatrix - np.dot(XMatrix, theta)
-        theta = theta + alpha * (error.transpose() * XMatrix).transpose()
+        error = np.dot(XMatrix, theta) - yMatrix
+        theta = theta - alpha * (error.transpose() * XMatrix).transpose()
     return theta
 
 
