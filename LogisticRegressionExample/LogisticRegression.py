@@ -50,7 +50,7 @@ def plotLossFunction(loss_list, iterNum):
     plt.show()
 
 
-def plot(Xmat, ymat, thetaUpdate):
+def plotLR(Xmat, ymat, thetaUpdate):
     Xarray = np.array(Xmat)
     yarray = np.array(ymat)
     col = {0: 'r', 1: 'b'}
@@ -58,9 +58,8 @@ def plot(Xmat, ymat, thetaUpdate):
     for i in range(Xarray.shape[0]):
         plt.plot(Xarray[i, 0], Xarray[i, 1], col[yarray[i][0]] + 'o')
     plt.ylim([-1.5, 1.5])
-    print(Xarray.shape)
-    print(yarray.shape)
-    plt.plot(Xarray[:, 0], (-(theta[0][0] * Xarray[:, 0] + theta[2][0] * Xarray[:, 2]) / theta[1][0]).transpose(),
+    plt.plot(Xarray[:, 0],
+             (-(thetaUpdate[0][0] * Xarray[:, 0] + thetaUpdate[2][0] * Xarray[:, 2]) / thetaUpdate[1][0]).transpose(),
              c='g')
     plt.show()
 
@@ -72,8 +71,8 @@ if __name__ == '__main__':
     x[:, :-1] = XarrayLess
     x = np.mat(x)
     y = np.mat(y).transpose()
-    alpha = 0.0001
+    alpha = 0.01
     iterNum = 5000
     theta, loss_list = logistic(alpha, x, y, iterNum)
-    plot(x, y, theta)
+    plotLR(x, y, theta)
     plotLossFunction(loss_list, iterNum)
