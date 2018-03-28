@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906047b4-12ab-4031-b4fd-d2c83959ab88" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/LogisticRegressionExample/lrMultiProcess.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LogisticRegressionExample/multiProcessExample.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MapReduceTest/Map.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MapReduceTest/Reduce.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MapReduceTest/file01.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/MapReduceTest/file02.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NaiveBayes/Bayes.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NaiveBayes/EnglishMailFile.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NaiveBayes/MailFilter.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NaiveBayes/MapReduce.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NaiveBayes/testMail.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LogisticRegressionExample/LogisticRegression.py" afterPath="$PROJECT_DIR$/LogisticRegressionExample/LogisticRegression.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,66 +22,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GradientDescent.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GradientDescentExample/GradientDescent.py">
+      <file leaf-file-name="EnglishMailFile.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NaiveBayes/EnglishMailFile.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="70" selection-end-column="14" />
-              <folding>
-                <element signature="e#188#206#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1903">
+              <caret line="4577" column="23" lean-forward="false" selection-start-line="4577" selection-start-column="23" selection-end-line="4577" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LogisticRegression.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/LogisticRegression.py">
+      <file leaf-file-name="MailFilter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NaiveBayes/MailFilter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="38" />
-              <folding>
-                <element signature="e#232#250#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="160">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lrMultiProcess.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/lrMultiProcess.py">
+      <file leaf-file-name="result.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NaiveBayes/result.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#17#42#0" expanded="true" />
-                <element signature="e#304#413#0" expanded="false" />
-                <element signature="e#1585#1899#0" expanded="false" />
-                <element signature="e#1926#2050#0" expanded="false" />
-                <element signature="e#2498#2696#0" expanded="false" />
-                <element signature="e#3382#3628#0" expanded="false" />
-                <element signature="e#3715#4153#0" expanded="false" />
-                <element signature="e#4240#5008#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="121">
+              <caret line="397" column="11" lean-forward="true" selection-start-line="397" selection-start-column="11" selection-end-line="397" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiProcessExample.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/multiProcessExample.py">
+      <file leaf-file-name="testMail.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NaiveBayes/testMail.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="48" lean-forward="true" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinearRegressionExample.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GradientDescentExample/LinearRegressionExample.py">
+      <file leaf-file-name="wordHam.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NaiveBayes/wordHam.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="210">
+              <caret line="48122" column="4" lean-forward="false" selection-start-line="48122" selection-start-column="0" selection-end-line="48122" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wordSpam.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NaiveBayes/wordSpam.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369640">
+              <caret line="18482" column="5" lean-forward="true" selection-start-line="18482" selection-start-column="5" selection-end-line="18482" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -100,6 +101,16 @@
       <find>ymat</find>
       <find>theta</find>
       <find>sigmoidP</find>
+      <find>ss</find>
+      <find>gg</find>
+      <find>spam</find>
+      <find>spa</find>
+      <find>wkly</find>
+      <find>08452810075over18</find>
+      <find>probaList</find>
+      <find>ipad</find>
+      <find>logprobaResult</find>
+      <find>hamProbaResult</find>
     </findStrings>
     <replaceStrings>
       <replace>XMat</replace>
@@ -110,6 +121,12 @@
       <replace>Xarray</replace>
       <replace>yarray</replace>
       <replace>thetaUpdate</replace>
+      <replace>wordList</replace>
+      <replace>spamProbaList</replace>
+      <replace>file</replace>
+      <replace>hamProbaResult</replace>
+      <replace>spamLogprobaResult</replace>
+      <replace>hamLogProbaResult</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -127,6 +144,14 @@
         <option value="$PROJECT_DIR$/LogisticRegressionExample/lrMultiProcess.py" />
         <option value="$PROJECT_DIR$/可以删除.py" />
         <option value="$PROJECT_DIR$/multiProcessExample.py" />
+        <option value="$PROJECT_DIR$/NaiveBayes/MapReduce.py" />
+        <option value="$PROJECT_DIR$/NaiveBayes/aaa.py" />
+        <option value="$PROJECT_DIR$/NaiveBayes/Bayes.py" />
+        <option value="$PROJECT_DIR$/MapReduceTest/file01.txt" />
+        <option value="$PROJECT_DIR$/MapReduceTest/Reduce.py" />
+        <option value="$PROJECT_DIR$/MapReduceTest/Map.py" />
+        <option value="$PROJECT_DIR$/NaiveBayes/testMail.txt" />
+        <option value="$PROJECT_DIR$/NaiveBayes/MailFilter.py" />
       </list>
     </option>
   </component>
@@ -152,7 +177,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -164,29 +188,31 @@
             <path>
               <item name="ML_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="ML_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="GradientDescentExample" type="462c0819:PsiDirectoryNode" />
+              <item name="MapReduceTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ML_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="ML_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="LogisticRegressionExample" type="462c0819:PsiDirectoryNode" />
+              <item name="NaiveBayes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/LogisticRegressionExample" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NaiveBayes" />
       <recent name="$PROJECT_DIR$/LogisticRegressionExample" />
       <recent name="$PROJECT_DIR$/GradientDescentExample" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LogisticRegressionExample" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.可以删除">
+  <component name="RunManager" selected="Python.MailFilter">
     <configuration name="可以删除" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,55 +246,55 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="GradientDescent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="MailFilter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GradientDescentExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NaiveBayes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ML_Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GradientDescentExample/GradientDescent.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NaiveBayes/MailFilter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="LinearRegressionExample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Map" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GradientDescentExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MapReduceTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ML_Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GradientDescentExample/LinearRegressionExample.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MapReduceTest/Map.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="LogisticRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Reduce" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LogisticRegressionExample" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MapReduceTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ML_Python" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticRegressionExample/LogisticRegression.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MapReduceTest/Reduce.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,19 +319,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.GradientDescent" />
-      <item index="1" class="java.lang.String" itemvalue="Python.LinearRegressionExample" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LogisticRegression" />
-      <item index="3" class="java.lang.String" itemvalue="Python.lrMultiProcess" />
-      <item index="4" class="java.lang.String" itemvalue="Python.可以删除" />
+      <item index="0" class="java.lang.String" itemvalue="Python.lrMultiProcess" />
+      <item index="1" class="java.lang.String" itemvalue="Python.可以删除" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Map" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Reduce" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MailFilter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.可以删除" />
-        <item index="1" class="java.lang.String" itemvalue="Python.lrMultiProcess" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LogisticRegression" />
-        <item index="3" class="java.lang.String" itemvalue="Python.LinearRegressionExample" />
-        <item index="4" class="java.lang.String" itemvalue="Python.GradientDescent" />
+        <item index="0" class="java.lang.String" itemvalue="Python.MailFilter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Map" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Reduce" />
+        <item index="3" class="java.lang.String" itemvalue="Python.可以删除" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lrMultiProcess" />
       </list>
     </recent_temporary>
   </component>
@@ -343,9 +369,9 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32527205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27206773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -355,6 +381,25 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32527205" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -365,7 +410,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -418,12 +463,22 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/multiProcessExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GradientDescentExample/GradientDescent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -433,7 +488,7 @@
         <state relative-caret-position="300">
           <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -442,7 +497,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -450,7 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -458,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -466,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -483,7 +534,7 @@
         <state relative-caret-position="300">
           <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -492,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -508,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -516,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -533,7 +580,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -543,7 +590,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -553,7 +600,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -562,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +617,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -581,7 +627,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -590,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -612,7 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -620,7 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -628,7 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -636,6 +678,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/horseColicTest.txt" />
+    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/horseColicTraining.txt" />
+    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/LogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="38" />
+          <folding>
+            <element signature="e#232#250#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/multiProcessExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/lrMultiProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#42#0" expanded="false" />
+            <element signature="e#304#413#0" expanded="false" />
+            <element signature="e#1585#1899#0" expanded="false" />
+            <element signature="e#1926#2050#0" expanded="false" />
+            <element signature="e#2498#2696#0" expanded="false" />
+            <element signature="e#3382#3628#0" expanded="false" />
+            <element signature="e#3715#4153#0" expanded="false" />
+            <element signature="e#4240#5008#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/MapReduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -648,25 +736,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/horseColicTest.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GradientDescentExample/GradientDescent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="70" selection-end-column="14" />
+        <state relative-caret-position="180">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
-            <element signature="e#188#206#0" expanded="true" />
+            <element signature="e#188#206#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/horseColicTraining.txt">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/1300742288/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="793">
+          <caret line="3152" column="8" lean-forward="false" selection-start-line="3152" selection-start-column="8" selection-end-line="3152" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapReduceTest/file01.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="56" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapReduceTest/Map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapReduceTest/file02.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/Bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/aaa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855160">
+          <caret line="42758" column="5" lean-forward="true" selection-start-line="42758" selection-start-column="5" selection-end-line="42758" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapReduceTest/Reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/bb.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/word.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -674,40 +818,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/LogisticRegression.py">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/wordHam.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="38" />
-          <folding>
-            <element signature="e#232#250#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="48122" column="4" lean-forward="false" selection-start-line="48122" selection-start-column="0" selection-end-line="48122" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/lrMultiProcess.py">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/EnglishMailFile.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#17#42#0" expanded="true" />
-            <element signature="e#304#413#0" expanded="false" />
-            <element signature="e#1585#1899#0" expanded="false" />
-            <element signature="e#1926#2050#0" expanded="false" />
-            <element signature="e#2498#2696#0" expanded="false" />
-            <element signature="e#3382#3628#0" expanded="false" />
-            <element signature="e#3715#4153#0" expanded="false" />
-            <element signature="e#4240#5008#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1903">
+          <caret line="4577" column="23" lean-forward="false" selection-start-line="4577" selection-start-column="23" selection-end-line="4577" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogisticRegressionExample/multiProcessExample.py">
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/wordSpam.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="369640">
+          <caret line="18482" column="5" lean-forward="true" selection-start-line="18482" selection-start-column="5" selection-end-line="18482" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2017.3/python_stubs/1300742288/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/testMail.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="48" lean-forward="true" selection-start-line="0" selection-start-column="48" selection-end-line="0" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="397" column="11" lean-forward="true" selection-start-line="397" selection-start-column="11" selection-end-line="397" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NaiveBayes/MailFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
