@@ -2,622 +2,602 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="906047b4-12ab-4031-b4fd-d2c83959ab88" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/GradientDescent/GradientDescent.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GradientDescent/LinearRegressionExample.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GradientDescent/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GradientDescent/data1.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GradientDescent/data2.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/GradientDescent/data3.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LogisticRegression/LogisticRegression.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LogisticRegression/lrMultiProcess.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LogisticRegression/multiProcessExample.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/EXTRAS/notLinSeperable.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/EXTRAS/plotRBF.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/EXTRAS/plotSupportVectors.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits.zip" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_0.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_10.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_11.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_12.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_13.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_14.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_15.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_16.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_17.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_18.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_19.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_20.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_21.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_22.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_23.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_24.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_25.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_26.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_27.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_28.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_29.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_30.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_31.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_32.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_33.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_34.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_35.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_36.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_37.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_38.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_39.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_40.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_41.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_42.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_43.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_44.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_45.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_46.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_47.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_48.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_49.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_50.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_51.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_52.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_53.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_54.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_55.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_56.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_57.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_58.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_59.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_6.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_60.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_61.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_62.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_63.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_64.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_65.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_66.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_67.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_68.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_69.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_7.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_70.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_71.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_72.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_73.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_74.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_75.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_76.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_77.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_78.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_79.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_8.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_80.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_81.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_82.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_83.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_84.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_85.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_86.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_87.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_88.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_89.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_9.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_90.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_91.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_92.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_93.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_94.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_95.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/1_96.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_0.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_10.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_11.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_12.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_13.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_14.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_15.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_16.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_17.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_18.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_19.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_20.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_21.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_22.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_23.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_24.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_25.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_26.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_27.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_28.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_29.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_30.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_31.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_32.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_33.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_34.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_35.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_36.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_37.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_38.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_39.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_40.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_41.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_42.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_43.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_44.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_45.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_46.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_47.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_48.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_49.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_50.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_51.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_52.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_53.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_54.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_55.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_56.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_57.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_58.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_59.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_6.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_60.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_61.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_62.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_63.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_64.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_65.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_66.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_67.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_68.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_69.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_7.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_70.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_71.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_72.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_73.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_74.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_75.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_76.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_77.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_78.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_79.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_8.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_80.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_81.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_82.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_83.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_84.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_85.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_86.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_87.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_88.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/testDigits/9_9.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_0.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_10.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_100.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_101.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_102.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_103.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_104.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_105.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_106.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_107.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_108.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_109.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_11.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_110.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_111.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_112.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_113.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_114.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_115.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_116.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_117.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_118.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_119.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_12.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_120.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_121.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_122.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_123.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_124.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_125.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_126.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_127.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_128.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_129.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_13.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_130.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_131.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_132.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_133.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_134.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_135.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_136.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_137.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_138.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_139.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_14.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_140.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_141.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_142.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_143.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_144.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_145.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_146.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_147.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_148.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_149.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_15.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_150.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_151.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_152.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_153.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_154.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_155.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_156.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_157.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_158.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_159.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_16.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_160.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_161.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_162.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_163.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_164.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_165.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_166.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_167.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_168.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_169.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_17.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_170.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_171.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_172.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_173.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_174.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_175.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_176.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_177.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_178.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_179.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_18.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_180.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_181.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_182.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_183.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_184.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_185.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_186.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_187.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_188.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_189.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_19.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_190.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_191.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_192.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_193.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_194.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_195.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_196.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_197.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_20.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_21.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_22.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_23.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_24.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_25.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_26.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_27.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_28.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_29.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_30.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_31.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_32.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_33.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_34.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_35.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_36.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_37.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_38.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_39.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_40.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_41.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_42.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_43.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_44.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_45.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_46.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_47.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_48.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_49.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_50.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_51.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_52.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_53.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_54.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_55.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_56.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_57.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_58.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_59.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_6.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_60.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_61.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_62.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_63.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_64.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_65.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_66.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_67.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_68.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_69.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_7.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_70.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_71.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_72.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_73.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_74.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_75.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_76.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_77.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_78.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_79.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_8.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_80.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_81.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_82.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_83.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_84.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_85.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_86.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_87.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_88.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_89.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_9.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_90.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_91.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_92.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_93.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_94.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_95.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_96.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_97.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_98.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_99.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_0.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_10.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_100.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_101.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_102.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_103.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_104.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_105.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_106.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_107.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_108.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_109.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_11.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_110.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_111.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_112.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_113.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_114.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_115.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_116.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_117.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_118.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_119.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_12.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_120.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_121.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_122.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_123.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_124.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_125.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_126.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_127.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_128.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_129.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_13.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_130.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_131.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_132.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_133.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_134.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_135.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_136.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_137.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_138.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_139.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_14.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_140.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_141.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_142.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_143.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_144.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_145.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_146.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_147.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_148.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_149.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_15.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_150.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_151.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_152.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_153.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_154.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_155.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_156.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_157.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_158.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_159.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_16.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_160.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_161.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_162.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_163.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_164.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_165.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_166.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_167.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_168.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_169.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_17.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_170.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_171.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_172.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_173.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_174.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_175.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_176.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_177.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_178.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_179.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_18.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_180.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_181.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_182.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_183.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_184.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_185.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_186.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_187.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_188.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_189.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_19.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_190.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_191.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_192.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_193.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_194.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_195.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_196.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_197.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_198.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_199.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_20.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_200.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_201.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_202.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_203.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_21.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_22.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_23.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_24.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_25.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_26.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_27.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_28.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_29.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_3.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_30.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_31.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_32.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_33.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_34.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_35.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_36.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_37.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_38.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_39.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_40.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_41.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_42.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_43.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_44.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_45.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_46.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_47.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_48.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_49.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_50.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_51.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_52.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_53.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_54.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_55.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_56.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_57.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_58.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_59.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_6.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_60.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_61.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_62.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_63.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_64.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_65.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_66.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_67.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_68.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_69.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_7.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_70.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_71.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_72.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_73.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_74.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_75.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_76.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_77.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_78.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_79.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_8.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_80.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_81.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_82.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_83.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_84.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_85.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_86.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_87.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_88.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_89.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_9.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_90.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_91.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_92.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_93.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_94.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_95.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_96.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_97.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_98.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_99.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/smo_svm.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/testSet.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/testSetRBF.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/SVM/testSetRBF2.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/ML_Python.iml" afterPath="$PROJECT_DIR$/.idea/ML_Python.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/GradientDescentExample/GradientDescent.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GradientDescentExample/LinearRegressionExample.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GradientDescentExample/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GradientDescentExample/data1.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GradientDescentExample/data2.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/GradientDescentExample/data3.csv" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LogisticRegressionExample/LogisticRegression.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LogisticRegressionExample/lrMultiProcess.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/LogisticRegressionExample/multiProcessExample.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/EXTRAS/notLinSeperable.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/EXTRAS/plotRBF.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/EXTRAS/plotSupportVectors.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_11.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_12.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_13.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_14.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_15.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_16.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_17.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_18.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_19.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_20.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_21.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_22.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_23.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_24.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_25.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_26.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_27.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_28.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_29.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_30.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_31.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_32.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_33.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_34.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_35.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_36.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_37.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_38.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_39.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_40.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_41.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_42.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_43.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_44.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_45.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_46.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_47.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_48.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_49.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_50.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_51.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_52.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_53.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_54.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_55.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_56.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_57.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_58.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_59.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_60.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_61.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_62.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_63.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_64.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_65.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_66.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_67.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_68.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_69.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_7.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_70.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_71.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_72.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_73.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_74.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_75.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_76.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_77.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_78.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_79.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_8.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_80.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_81.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_82.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_83.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_84.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_85.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_86.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_87.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_88.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_89.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_9.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_90.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_91.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_92.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_93.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_94.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_95.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/1_96.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_11.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_12.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_13.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_14.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_15.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_16.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_17.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_18.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_19.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_20.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_21.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_22.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_23.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_24.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_25.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_26.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_27.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_28.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_29.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_30.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_31.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_32.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_33.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_34.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_35.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_36.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_37.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_38.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_39.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_40.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_41.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_42.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_43.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_44.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_45.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_46.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_47.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_48.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_49.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_50.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_51.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_52.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_53.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_54.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_55.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_56.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_57.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_58.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_59.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_60.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_61.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_62.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_63.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_64.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_65.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_66.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_67.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_68.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_69.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_7.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_70.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_71.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_72.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_73.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_74.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_75.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_76.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_77.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_78.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_79.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_8.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_80.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_81.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_82.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_83.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_84.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_85.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_86.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_87.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_88.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/testDigits/9_9.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_100.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_101.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_102.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_103.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_104.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_105.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_106.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_107.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_108.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_109.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_11.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_110.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_111.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_112.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_113.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_114.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_115.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_116.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_117.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_118.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_119.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_12.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_120.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_121.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_122.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_123.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_124.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_125.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_126.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_127.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_128.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_129.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_13.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_130.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_131.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_132.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_133.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_134.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_135.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_136.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_137.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_138.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_139.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_14.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_140.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_141.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_142.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_143.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_144.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_145.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_146.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_147.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_148.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_149.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_15.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_150.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_151.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_152.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_153.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_154.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_155.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_156.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_157.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_158.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_159.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_16.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_160.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_161.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_162.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_163.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_164.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_165.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_166.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_167.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_168.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_169.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_17.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_170.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_171.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_172.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_173.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_174.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_175.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_176.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_177.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_178.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_179.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_18.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_180.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_181.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_182.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_183.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_184.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_185.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_186.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_187.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_188.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_189.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_19.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_190.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_191.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_192.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_193.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_194.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_195.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_196.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_197.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_20.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_21.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_22.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_23.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_24.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_25.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_26.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_27.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_28.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_29.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_30.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_31.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_32.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_33.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_34.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_35.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_36.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_37.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_38.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_39.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_40.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_41.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_42.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_43.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_44.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_45.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_46.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_47.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_48.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_49.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_50.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_51.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_52.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_53.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_54.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_55.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_56.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_57.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_58.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_59.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_60.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_61.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_62.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_63.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_64.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_65.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_66.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_67.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_68.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_69.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_7.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_70.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_71.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_72.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_73.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_74.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_75.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_76.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_77.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_78.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_79.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_8.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_80.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_81.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_82.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_83.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_84.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_85.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_86.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_87.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_88.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_89.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_9.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_90.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_91.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_92.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_93.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_94.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_95.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_96.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_97.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_98.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/1_99.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_0.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_1.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_10.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_100.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_101.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_102.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_103.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_104.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_105.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_106.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_107.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_108.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_109.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_11.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_110.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_111.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_112.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_113.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_114.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_115.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_116.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_117.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_118.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_119.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_12.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_120.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_121.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_122.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_123.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_124.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_125.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_126.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_127.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_128.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_129.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_13.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_130.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_131.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_132.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_133.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_134.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_135.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_136.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_137.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_138.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_139.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_14.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_140.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_141.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_142.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_143.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_144.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_145.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_146.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_147.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_148.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_149.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_15.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_150.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_151.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_152.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_153.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_154.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_155.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_156.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_157.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_158.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_159.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_16.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_160.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_161.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_162.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_163.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_164.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_165.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_166.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_167.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_168.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_169.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_17.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_170.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_171.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_172.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_173.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_174.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_175.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_176.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_177.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_178.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_179.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_18.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_180.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_181.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_182.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_183.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_184.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_185.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_186.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_187.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_188.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_189.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_19.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_190.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_191.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_192.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_193.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_194.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_195.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_196.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_197.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_198.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_199.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_2.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_20.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_200.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_201.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_202.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_203.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_21.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_22.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_23.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_24.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_25.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_26.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_27.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_28.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_29.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_3.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_30.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_31.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_32.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_33.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_34.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_35.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_36.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_37.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_38.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_39.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_4.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_40.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_41.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_42.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_43.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_44.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_45.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_46.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_47.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_48.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_49.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_5.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_50.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_51.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_52.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_53.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_54.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_55.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_56.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_57.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_58.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_59.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_6.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_60.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_61.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_62.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_63.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_64.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_65.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_66.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_67.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_68.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_69.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_7.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_70.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_71.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_72.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_73.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_74.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_75.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_76.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_77.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_78.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_79.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_8.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_80.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_81.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_82.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_83.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_84.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_85.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_86.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_87.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_88.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_89.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_9.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_90.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_91.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_92.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_93.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_94.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_95.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_96.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_97.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_98.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/digits/trainingDigits/9_99.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/SVM/smo_svm.py" afterPath="$PROJECT_DIR$/SVM/smo_svm.py" />
+      <change beforePath="$PROJECT_DIR$/SVM/testSet.txt" afterPath="$PROJECT_DIR$/SVM/testSetLinear.txt" />
+      <change beforePath="$PROJECT_DIR$/SVM/testSetRBF2.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -631,30 +611,20 @@
       <file leaf-file-name="smo_svm.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SVM/smo_svm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4006">
-              <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+            <state relative-caret-position="151">
+              <caret line="263" column="17" lean-forward="true" selection-start-line="263" selection-start-column="17" selection-end-line="263" selection-end-column="17" />
               <folding>
-                <element signature="e#187#205#0" expanded="true" />
+                <element signature="e#169#187#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testSet.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SVM/testSet.txt">
+      <file leaf-file-name="LogisticRegression.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LogisticRegression/LogisticRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testSetRBF2.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/SVM/testSetRBF2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-1029">
+              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -681,12 +651,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hey</find>
-      <find>toler</find>
-      <find>scan</find>
-      <find>updateEk</find>
-      <find>optStructK</find>
-      <find>dataMatIn</find>
       <find>classLabels</find>
       <find>oS</find>
       <find>e</find>
@@ -710,7 +674,13 @@
       <find>omega</find>
       <find>kernel</find>
       <find>Xmat</find>
+      <find>kernelType</find>
+      <find>g</find>
       <find>sigma</find>
+      <find>plotHyperplaneLinear</find>
+      <find>分类</find>
+      <find>print</find>
+      <find>check</find>
     </findStrings>
     <replaceStrings>
       <replace>XMat</replace>
@@ -770,8 +740,10 @@
         <option value="$PROJECT_DIR$/SVM/svmMLiA.py" />
         <option value="$PROJECT_DIR$/SVM/svmExample.py" />
         <option value="$PROJECT_DIR$/LogisticRegression/LogisticRegression.py" />
-        <option value="$PROJECT_DIR$/SVM/smo_svm.py" />
         <option value="$PROJECT_DIR$/SVM/smo.py" />
+        <option value="$PROJECT_DIR$/SVM/digit.py" />
+        <option value="$PROJECT_DIR$/SVM/lrNonLinearClassifier.py" />
+        <option value="$PROJECT_DIR$/SVM/smo_svm.py" />
       </list>
     </option>
   </component>
@@ -1112,7 +1084,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4183797" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44619104" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1226,22 +1198,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GradientDescent/LinearRegressionExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GradientDescent/GradientDescent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GradientDescent/GradientDescent.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1509,22 +1465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LogisticRegression/LogisticRegression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="76" column="22" lean-forward="true" selection-start-line="76" selection-start-column="22" selection-end-line="76" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SVM/testSet.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SVM/testSetRBF2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1557,12 +1497,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/SVM/digit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM/testSetLinear.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LogisticRegression/LogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1029">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SVM/lrNonLinearClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SVM/smo_svm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4006">
-          <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        <state relative-caret-position="151">
+          <caret line="263" column="17" lean-forward="true" selection-start-line="263" selection-start-column="17" selection-end-line="263" selection-end-column="17" />
           <folding>
-            <element signature="e#187#205#0" expanded="true" />
+            <element signature="e#169#187#0" expanded="true" />
           </folding>
         </state>
       </provider>
