@@ -34,7 +34,7 @@ def Viterbi(start_probability, transition_probability, emission_probability, obs
             bestWay.append(nodeList[t + 1][bestWay[t - 1]])
     bestWay = list(reversed(bestWay))
     statusList = [states[i] for i in bestWay]
-    print(statusList)
+    print('状态序列为：{}'.format(statusList))
     return statusList
 
 

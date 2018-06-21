@@ -1,0 +1,147 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 60323331a8896a344ea4c7e877175c0fbaf62658)
++++ .idea/workspace.xml	(date 1529410456000)
+@@ -1,10 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="906047b4-12ab-4031-b4fd-d2c83959ab88" name="Default" comment="update SVM and SMO code">
+-      <change beforePath="" afterPath="$PROJECT_DIR$/HMM/hmmTest.py" />
+-      <change beforePath="$PROJECT_DIR$/.idea/ML_Python.iml" afterPath="$PROJECT_DIR$/.idea/ML_Python.iml" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
++    <list default="true" id="906047b4-12ab-4031-b4fd-d2c83959ab88" name="Default" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -16,14 +13,24 @@
+   </component>
+   <component name="FileEditorManager">
+     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+-      <file leaf-file-name="hmmTest.py" pinned="false" current-in-tab="true">
++      <file leaf-file-name="hmmTest.py" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/HMM/hmmTest.py">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="60">
+-              <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
++            <state relative-caret-position="0">
++              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="17" />
+               <folding>
+-                <element signature="e#189#207#0" expanded="true" />
++                <element signature="e#191#209#0" expanded="true" />
+               </folding>
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file leaf-file-name="Viterbi.py" pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/HMM/Viterbi.py">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="180">
++              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
++              <folding />
+             </state>
+           </provider>
+         </entry>
+@@ -134,10 +141,11 @@
+         <option value="$PROJECT_DIR$/SVM/lrNonLinearClassifier.py" />
+         <option value="$PROJECT_DIR$/SVM/smo_svm.py" />
+         <option value="$PROJECT_DIR$/HMM/hmmTest.py" />
++        <option value="$PROJECT_DIR$/HMM/Viterbi.py" />
+       </list>
+     </option>
+   </component>
+-  <component name="ProjectFrameBounds">
++  <component name="ProjectFrameBounds" fullScreen="true">
+     <option name="x" value="755" />
+     <option name="y" value="94" />
+     <option name="width" value="1103" />
+@@ -162,7 +170,6 @@
+     </navigator>
+     <panes>
+       <pane id="Scope" />
+-      <pane id="Scratches" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -184,6 +191,7 @@
+           <select />
+         </subPane>
+       </pane>
++      <pane id="Scratches" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+@@ -353,7 +361,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1522644297148</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="update SVM and SMO code">
++      <created>1529410454460</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1529410454460</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TestHistory">
+@@ -365,13 +380,13 @@
+     </history-entry>
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="755" y="94" width="1103" height="900" extended-state="0" />
++    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+     <editor active="true" />
+     <layout>
+-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22870371" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
++      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24242425" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4461738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
++      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4461738" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986821" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+@@ -489,7 +504,6 @@
+     </expressions>
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/GradientDescent/GradientDescent.py" />
+     <entry file="file://$PROJECT_DIR$/GradientDescent/__init__.py" />
+     <entry file="file://$PROJECT_DIR$/GradientDescent/GradientDescent.py" />
+     <entry file="file://$PROJECT_DIR$/GradientDescent/GradientDescent.py" />
+@@ -572,17 +586,24 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="120">
+           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+-          <folding />
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/HMM/hmmTest.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="60">
+-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
++        <state relative-caret-position="0">
++          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="17" />
+           <folding>
+-            <element signature="e#189#207#0" expanded="true" />
++            <element signature="e#191#209#0" expanded="true" />
+           </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/HMM/Viterbi.py">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="180">
++          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
++          <folding />
+         </state>
+       </provider>
+     </entry>
