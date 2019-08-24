@@ -48,3 +48,4 @@ if __name__ == '__main__':
     transition_probability = np.array([[0.5, 0.2, 0.3], [0.3, 0.5, 0.2], [0.2, 0.3, 0.5]])
     emission_probability = np.array([[0.5, 0.5], [0.4, 0.6], [0.7, 0.3]])
     Viterbi(start_probability, transition_probability, emission_probability, observations)
+
